@@ -1,4 +1,4 @@
-# 🎉 EventZella – Business Intelligence & Machine Learning Project
+# 🎉 EventZella – Business Intelligence 
 
 ## 📌 Project Overview
 
