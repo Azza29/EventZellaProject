@@ -1,0 +1,96 @@
+vendor_id,vendor_name,vendor_category,description,city,country,indoor_outdoor,capacity,availability,source,created_date,suggestion_sk
+VND00001,مصوري الاعراس,Photographers,Photographie haut de gamme avec équipement professionnel dernière génération.,Tunis,Tunisia,Outdoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,1
+VND00002,Anis Bouassida Photographie,Photographers,Expert en photographie de mariage avec plus de 10 ans d'expérience.,Tunis,Tunisia,Indoor,1,Limité,arabiaweddings,0033-08-18 00:00:00,2
+VND00003,BC Studio,Photographers,Style photojournaliste pour des souvenirs authentiques et spontanés.,Tunis,Tunisia,Indoor,1,Limité,arabiaweddings,0033-08-18 00:00:00,3
+VND00004,Exclusif Media Photographie,Photographers,Capturer vos moments précieux avec une approche artistique et émotionnelle.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,4
+VND00005,Flash Photography,Photographers,Style photojournaliste pour des souvenirs authentiques et spontanés.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,5
+VND00006,Flashback Photographie,Photographers,Photographe professionnel spécialisé dans les mariages et événements. Style moderne et naturel.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,6
+VND00007,Jet Set Photographie,Photographers,Expert en photographie de mariage avec plus de 10 ans d'expérience.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,7
+VND00008,Khaled Sliti Photographe,Photographers,Photographe professionnel spécialisé dans les mariages et événements. Style moderne et naturel.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,8
+VND00009,Labo Photo Dellia,Photographers,Style photojournaliste pour des souvenirs authentiques et spontanés.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,9
+VND00010,Labo Photo Mounir,Photographers,Style photojournaliste pour des souvenirs authentiques et spontanés.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,10
+VND00011,Labo Photo Numérique Kamel,Photographers,Expert en photographie de mariage avec plus de 10 ans d'expérience.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,11
+VND00012,Mahdi Bechaouech l Photographie,Photographers,Expert en photographie de mariage avec plus de 10 ans d'expérience.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,12
+VND00013,Making Of Productionn Photographie,Photographers,Capturer vos moments précieux avec une approche artistique et émotionnelle.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,13
+VND00014,Marwa Z Photography,Photographers,Photographe professionnel spécialisé dans les mariages et événements. Style moderne et naturel.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,14
+VND00015,Mehdi Abid Photography,Photographers,Capturer vos moments précieux avec une approche artistique et émotionnelle.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,15
+VND00016,Mehdi Ch. Photography,Photographers,Capturer vos moments précieux avec une approche artistique et émotionnelle.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,16
+VND00017,Mohamed Krifa Photographie,Photographers,Photographe professionnel spécialisé dans les mariages et événements. Style moderne et naturel.,Tunis,Tunisia,Outdoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,17
+VND00018,Naim Chouaieb Photographie,Photographers,Capturer vos moments précieux avec une approche artistique et émotionnelle.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,18
+VND00019,فنادق وقاعات,Venues,Lieu élégant avec capacité d'accueil jusqu'à 500 personnes. Jardin extérieur disponible.,Tunis,Tunisia,Outdoor,637,Disponible,arabiaweddings,0033-08-18 00:00:00,19
+VND00020,Dar El Marsa Hotel & Spa,Venues,"Espace modulable avec terrasse, climatisation et parking privé.",Tunis,Tunisia,Les deux,672,Disponible,arabiaweddings,0033-08-18 00:00:00,20
+VND00021,Four Seasons Hotel Tunis,Venues,Palais des congrès moderne avec toutes les commodités pour vos événements.,Tunis,Tunisia,Outdoor,297,Limité,arabiaweddings,0033-08-18 00:00:00,21
+VND00022,La Villa Bleue,Venues,Lieu élégant avec capacité d'accueil jusqu'à 500 personnes. Jardin extérieur disponible.,Tunis,Tunisia,Outdoor,90,Limité,arabiaweddings,0033-08-18 00:00:00,22
+VND00023,Laico Tunis Hotel,Venues,"Espace modulable avec terrasse, climatisation et parking privé.",Tunis,Tunisia,Les deux,341,Limité,arabiaweddings,0033-08-18 00:00:00,23
+VND00024,Mövenpick Hotel Du Lac Tunis,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Outdoor,311,Sur réservation,arabiaweddings,0033-08-18 00:00:00,24
+VND00025,Acropole Hotel,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Indoor,312,Disponible,arabiaweddings,0033-08-18 00:00:00,25
+VND00026,Allians Wedding Venue,Venues,Hôtel 5 étoiles avec services complets pour événements professionnels et privés.,Tunis,Tunisia,Outdoor,508,Disponible,arabiaweddings,0033-08-18 00:00:00,26
+VND00027,Anantara Tozeur Resort,Venues,"Espace modulable avec terrasse, climatisation et parking privé.",Tunis,Tunisia,Indoor,899,Limité,arabiaweddings,0033-08-18 00:00:00,27
+VND00028,Barceló Concorde Les Berges Du Lac,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Les deux,788,Sur réservation,arabiaweddings,0033-08-18 00:00:00,28
+VND00029,Carthage Thalasso Resort,Venues,Lieu élégant avec capacité d'accueil jusqu'à 500 personnes. Jardin extérieur disponible.,Tunis,Tunisia,Indoor,164,Disponible,arabiaweddings,0033-08-18 00:00:00,29
+VND00030,Dar Hamadi,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Indoor,185,Disponible,arabiaweddings,0033-08-18 00:00:00,30
+VND00031,Dar Sadika Wedding Venue,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Indoor,592,Disponible,arabiaweddings,0033-08-18 00:00:00,31
+VND00032,EL Bourak Wedding Venue,Venues,"Espace modulable avec terrasse, climatisation et parking privé.",Tunis,Tunisia,Les deux,954,Limité,arabiaweddings,0033-08-18 00:00:00,32
+VND00033,El Firma,Venues,"Villa de prestige avec vue panoramique, idéale pour mariages intimistes.",Tunis,Tunisia,Indoor,404,Limité,arabiaweddings,0033-08-18 00:00:00,33
+VND00034,El Khima Wedding Venue,Venues,Palais des congrès moderne avec toutes les commodités pour vos événements.,Tunis,Tunisia,Outdoor,662,Disponible,arabiaweddings,0033-08-18 00:00:00,34
+VND00035,El Ksar Resort & Thalasso,Venues,"Espace modulable avec terrasse, climatisation et parking privé.",Tunis,Tunisia,Outdoor,860,Limité,arabiaweddings,0033-08-18 00:00:00,35
+VND00036,El Mouradi Gammarth Hotel,Venues,Lieu élégant avec capacité d'accueil jusqu'à 500 personnes. Jardin extérieur disponible.,Tunis,Tunisia,Les deux,932,Limité,arabiaweddings,0033-08-18 00:00:00,36
+VND00037,منظمي حفلات الزفاف,Planners,Planification personnalisée avec attention aux détails et budget optimisé.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,37
+VND00038,Afrah Planification De Mariage,Planners,Équipe professionnelle dédiée à la réussite de votre événement.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,38
+VND00039,Azza Deco Planification de Mariage,Planners,Organisation complète de votre événement de A à Z. Coordination jour J incluse.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,39
+VND00040,Bevents Tunisie Events Planing,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,40
+VND00041,BO'deco Planification de Mariage,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,41
+VND00042,Boudinar Wedding Planner - Organisation de Mariage,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,42
+VND00043,Celebrate Wedding & Events,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,43
+VND00044,Ceremony Tunisie Planification de Mariage,Planners,Planification personnalisée avec attention aux détails et budget optimisé.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,44
+VND00045,ChiCh-Khan Events Planing,Planners,Organisation complète de votre événement de A à Z. Coordination jour J incluse.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,45
+VND00046,CUBE Créa Planification De Mariage,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,46
+VND00047,Déco Rêves Planification de Mariage,Planners,Planification personnalisée avec attention aux détails et budget optimisé.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,47
+VND00072,محلات بيع أزهار,Flower Shops,Fleuriste expert en décorations de mariage et centres de table.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,48
+VND00048,Donia Déco Planification De Mariage,Planners,Spécialiste en événements corporatifs et mariages de luxe.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,49
+VND00049,El Feki & Dardouri Planification de Mariage,Planners,Organisation complète de votre événement de A à Z. Coordination jour J incluse.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,50
+VND00050,Espace Des Fêtes La Princesse Planification de Mariage,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,51
+VND00051,Gala Event & Wedding Planner,Planners,Wedding planner expérimenté pour créer votre journée de rêve sans stress.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,52
+VND00052,Hamdi Boubaker Wedding and Event Planner,Planners,Planification personnalisée avec attention aux détails et budget optimisé.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,53
+VND00053,Happy Events Planification De Mariage,Planners,Planification personnalisée avec attention aux détails et budget optimisé.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,54
+VND00054,ITEB DECO Planification De Mariage,Planners,Équipe professionnelle dédiée à la réussite de votre événement.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,55
+VND00055,خدمات اعداد الطعام والحلويات,Catering & Pastries,Pâtisserie fine et pièces montées sur mesure pour vos célébrations.,Tunis,Tunisia,Les deux,55,Sur réservation,arabiaweddings,0033-08-18 00:00:00,56
+VND00056,Best Chef,Catering & Pastries,Spécialité en cuisine tunisienne et internationale. Service professionnel.,Tunis,Tunisia,Indoor,202,Limité,arabiaweddings,0033-08-18 00:00:00,57
+VND00057,Deyma Dattes,Catering & Pastries,Buffet varié avec produits frais et locaux. Service en salle inclus.,Tunis,Tunisia,Les deux,288,Disponible,arabiaweddings,0033-08-18 00:00:00,58
+VND00058,Elhafla Traiteur,Catering & Pastries,Chef étoilé à votre service pour un menu d'exception.,Tunis,Tunisia,Les deux,402,Disponible,arabiaweddings,0033-08-18 00:00:00,59
+VND00059,Emotion Traiteur,Catering & Pastries,Spécialité en cuisine tunisienne et internationale. Service professionnel.,Tunis,Tunisia,Les deux,450,Sur réservation,arabiaweddings,0033-08-18 00:00:00,60
+VND00060,Gargoury Fin,Catering & Pastries,Chef étoilé à votre service pour un menu d'exception.,Tunis,Tunisia,Les deux,84,Sur réservation,arabiaweddings,0033-08-18 00:00:00,61
+VND00061,Gourmandise,Catering & Pastries,Pâtisserie fine et pièces montées sur mesure pour vos célébrations.,Tunis,Tunisia,Indoor,39,Sur réservation,arabiaweddings,0033-08-18 00:00:00,62
+VND00062,La Boîte a Gâteaux,Catering & Pastries,Traiteur gastronomique avec options personnalisables pour tous régimes alimentaires.,Tunis,Tunisia,Les deux,365,Sur réservation,arabiaweddings,0033-08-18 00:00:00,63
+VND00063,La Megrinoise,Catering & Pastries,Pâtisserie fine et pièces montées sur mesure pour vos célébrations.,Tunis,Tunisia,Indoor,426,Disponible,arabiaweddings,0033-08-18 00:00:00,64
+VND00064,Lasram Delicious,Catering & Pastries,Traiteur gastronomique avec options personnalisables pour tous régimes alimentaires.,Tunis,Tunisia,Les deux,288,Sur réservation,arabiaweddings,0033-08-18 00:00:00,65
+VND00065,Le Buffet Traiteur,Catering & Pastries,Traiteur gastronomique avec options personnalisables pour tous régimes alimentaires.,Tunis,Tunisia,Indoor,221,Sur réservation,arabiaweddings,0033-08-18 00:00:00,66
+VND00066,Le Seizième,Catering & Pastries,Chef étoilé à votre service pour un menu d'exception.,Tunis,Tunisia,Indoor,488,Disponible,arabiaweddings,0033-08-18 00:00:00,67
+VND00067,Les Délices de Folla,Catering & Pastries,Pâtisserie fine et pièces montées sur mesure pour vos célébrations.,Tunis,Tunisia,Indoor,409,Limité,arabiaweddings,0033-08-18 00:00:00,68
+VND00068,Madame Zarrouk,Catering & Pastries,Buffet varié avec produits frais et locaux. Service en salle inclus.,Tunis,Tunisia,Indoor,317,Limité,arabiaweddings,0033-08-18 00:00:00,69
+VND00069,Mamito,Catering & Pastries,Traiteur gastronomique avec options personnalisables pour tous régimes alimentaires.,Tunis,Tunisia,Indoor,452,Disponible,arabiaweddings,0033-08-18 00:00:00,70
+VND00070,Mme Abbes,Catering & Pastries,Buffet varié avec produits frais et locaux. Service en salle inclus.,Tunis,Tunisia,Les deux,49,Disponible,arabiaweddings,0033-08-18 00:00:00,71
+VND00071,Mme Kamoun,Catering & Pastries,Pâtisserie fine et pièces montées sur mesure pour vos célébrations.,Tunis,Tunisia,Indoor,198,Limité,arabiaweddings,0033-08-18 00:00:00,72
+VND00073,Bouquet à Croquer,Flower Shops,Fleuriste expert en décorations de mariage et centres de table.,Tunis,Tunisia,Les deux,1,Disponible,arabiaweddings,0033-08-18 00:00:00,73
+VND00074,Fleurs de Luxe,Flower Shops,Bouquets de saison avec livraison et installation sur site.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,74
+VND00075,Interflora Tunisie,Flower Shops,Décorations florales luxueuses pour cérémonies et réceptions.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,75
+VND00076,Le Temps Des Fleurs,Flower Shops,Fleuriste expert en décorations de mariage et centres de table.,Tunis,Tunisia,Les deux,1,Limité,arabiaweddings,0033-08-18 00:00:00,76
+VND00077,Rima's Flowers,Flower Shops,Décorations florales luxueuses pour cérémonies et réceptions.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,77
+VND00078,Sweet Flower,Flower Shops,Bouquets de saison avec livraison et installation sur site.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,78
+VND00079,Wedding Flowers,Flower Shops,Partenaire de confiance pour toutes vos necesidades en fleurs.,Tunis,Tunisia,Les deux,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,79
+VND00080,بطاقات دعوة,Invitation Cards,Impression rapide avec livraison à domicile.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,80
+VND00081,Hamdani's Print,Invitation Cards,Faire-part de mariage élégants avec finitions premium.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,81
+VND00082,Invitation de Mariage Sam Crea,Invitation Cards,Impression haute qualité avec options de personnalisation complète.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,82
+VND00083,Invitations de Mariage de Première,Invitation Cards,Impression rapide avec livraison à domicile.,Tunis,Tunisia,Indoor,1,Disponible,arabiaweddings,0033-08-18 00:00:00,83
+VND00084,Smart Imprimerie,Invitation Cards,Cartes d'invitation personnalisées avec designs modernes et classiques.,Tunis,Tunisia,Indoor,1,Limité,arabiaweddings,0033-08-18 00:00:00,84
+VND00085,كيك أعراس,Wedding Cakes,Gâteaux de mariage sur mesure avec designs personnalisés.,Tunis,Tunisia,Indoor,1,Sur réservation,arabiaweddings,0033-08-18 00:00:00,85
+VND00086,DJ Ahmed Music,DJs,Matériel professionnel et jeux de lumière pour une soirée inoubliable.,Tunis,Tunisia,Les deux,1,Limité,eventZella,0033-08-18 00:00:00,86
+VND00087,Sound Wave DJ,DJs,Ambiance garantie avec plus de 15 ans d'expérience en événements.,Tunis,Tunisia,Les deux,1,Sur réservation,eventZella,0033-08-18 00:00:00,87
+VND00088,DJ Karim Events,DJs,DJ professionnel avec équipement son et lumière haut de gamme.,Tunis,Tunisia,Les deux,1,Sur réservation,eventZella,0033-08-18 00:00:00,88
+VND00089,Mix Master Tunisia,DJs,Ambiance garantie avec plus de 15 ans d'expérience en événements.,Tunis,Tunisia,Les deux,1,Limité,eventZella,0033-08-18 00:00:00,89
+VND00090,DJ Sami Production,DJs,Animation musicale tous styles. Playlist personnalisée selon vos goûts.,Tunis,Tunisia,Les deux,1,Sur réservation,eventZella,0033-08-18 00:00:00,90
+VND00091,Electro Nights DJ,DJs,Ambiance garantie avec plus de 15 ans d'expérience en événements.,Sousse,Tunisia,Les deux,1,Sur réservation,eventZella,0033-08-18 00:00:00,91
+VND00092,DJ Mariage Tunisie,DJs,Animation musicale tous styles. Playlist personnalisée selon vos goûts.,Sousse,Tunisia,Les deux,1,Limité,eventZella,0033-08-18 00:00:00,92
+VND00093,Rhythm & Beats DJ,DJs,Mix live et interaction avec les invités pour une fête réussie.,Sfax,Tunisia,Les deux,1,Disponible,eventZella,0033-08-18 00:00:00,93
+VND00094,DJ Nabil Events,DJs,Animation musicale tous styles. Playlist personnalisée selon vos goûts.,Sfax,Tunisia,Les deux,1,Disponible,eventZella,0033-08-18 00:00:00,94
+VND00095,Tunisia DJ Pro,DJs,DJ professionnel avec équipement son et lumière haut de gamme.,Hammamet,Tunisia,Les deux,1,Limité,eventZella,0033-08-18 00:00:00,95
