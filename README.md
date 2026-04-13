@@ -25,23 +25,6 @@ The main objectives of this project are:
 
 The project follows a **Star Schema** architecture.
 
-### Fact Table
-
-* **dw_factreservations**
-
-  * reservation_id
-  * provider_id
-  * service_id
-  * date_id
-  * budget
-  * rating
-
-### Dimension Tables
-
-* **dim_provider**
-* **dim_service**
-* **dim_category**
-* **dim_date**
 
 This structure allows efficient analytical queries and dashboard visualizations.
 
@@ -51,20 +34,6 @@ This structure allows efficient analytical queries and dashboard visualizations.
 
 The dashboard provides interactive analytics for decision makers.
 
-### Key KPIs
-
-* 📅 **Reservations YTD**
-* 💰 **Revenue YTD**
-* ⭐ **Composite Quality Score**
-* 📦 **Total Availability**
-* 👥 **Number of Providers**
-
-### Dashboard Insights
-
-* Event segmentation by type
-* Budget distribution by service
-* Provider availability and capacity
-* Category filtering for deeper analysis
 
 ---
 
